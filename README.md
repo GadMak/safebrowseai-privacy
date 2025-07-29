@@ -1,23 +1,22 @@
-README – privacy.html
-Présentation
-Ce fichier privacy.html constitue la page de Politique de Confidentialité de l’extension ou du site web SafeBrowse AI (ou adapte le nom selon ton projet).
-Il informe les utilisateurs sur la collecte, l’utilisation, la protection et le partage de leurs données personnelles conformément aux exigences légales et aux bonnes pratiques en matière de protection de la vie privée.
+# Politique de Confidentialité – SafeBrowse AI
 
-Contenu du fichier
-Présente de manière transparente les données collectées (ex. : informations d’identification, données de navigation, etc.).
+Ce dépôt contient la page `privacy.html` qui présente la **Politique de Confidentialité** de l’extension (ou site web) **SafeBrowse AI**.
 
-Explique les finalités de la collecte et les droits des utilisateurs.
+## 📄 À propos
 
-Décrit les mesures de sécurité mises en place.
+Le fichier `privacy.html` détaille les engagements de l’extension concernant :
+- la collecte et l’utilisation des données personnelles,
+- la gestion et la protection de la vie privée des utilisateurs,
+- les droits et recours des utilisateurs.
 
-Fournit les moyens de contact pour toute question relative à la vie privée.
+Cette page est accessible directement depuis l’interface de l’extension/site via un lien « Politique de Confidentialité ».
 
-Utilisation
-Affichage automatique :
-Le fichier doit être accessible via le lien « Politique de Confidentialité » dans l’interface de l’extension ou du site web.
+## 🚀 Utilisation
 
-Mise à jour :
-Personnalise le contenu avec les informations spécifiques à ton service, ton équipe, tes coordonnées, et adapte la description des données réellement collectées.
+1. **Intégration**  
+   Placez le fichier `privacy.html` à la racine de votre projet ou dans le dossier approprié (`/pages/` ou `/public/`).
 
-Conformité :
-Ce modèle respecte les recommandations du RGPD (Europe) et peut être adapté à d’autres juridictions.
+2. **Lien d’accès**  
+   Ajoutez un lien dans votre site ou extension, par exemple dans le footer :
+   ```html
+   <a href="privacy.html" target="_blank">Politique de Confidentialité</a>
