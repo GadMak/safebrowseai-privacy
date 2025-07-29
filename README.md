@@ -13,10 +13,5 @@ Cette page est accessible directement depuis l’interface de l’extension/site
 
 ## 🚀 Utilisation
 
-1. **Intégration**  
-   Placez le fichier `privacy.html` à la racine de votre projet ou dans le dossier approprié (`/pages/` ou `/public/`).
-
-2. **Lien d’accès**  
-   Ajoutez un lien dans votre site ou extension, par exemple dans le footer :
-   ```html
-   <a href="privacy.html" target="_blank">Politique de Confidentialité</a>
+1. Rendez-vous sur le site https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=fr
+2. Chercher l'extension SafeBrowse AI dans la barre de recherhce
