@@ -14,5 +14,5 @@ Cette page est accessible directement depuis l’interface de l’extension/site
 ## 🚀 Installation
 
 1. Rendez-vous sur le site https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=fr
-2. Chercher l'extension SafeBrowse AI dans la barre de recherhce
-3. Activer l'extension safebrowse ai et laisser la magie opérer
+2. Chercher l'extension SafeBrowse AI dans la barre de recherhce 🛡️
+3. Activer l'extension safebrowse ai et laisser la magie opérer 🪄
